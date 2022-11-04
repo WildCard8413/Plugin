@@ -1,0 +1,24 @@
+options:
+  type: beacon
+  outputAmount: 1
+  shaped: true
+  item: beacon
+recipe:
+  '1':
+    item: nether star
+  '2':
+    item: netherite ingot
+  '3':
+    item: nether star
+  '4':
+    item: netherite ingot
+  '5':
+    item: elytra
+  '6':
+    item: netherite ingot
+  '7':
+    item: nether star
+  '8':
+    item: netherite ingot
+  '9':
+    item: nether star
